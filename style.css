@@ -1,0 +1,100 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: helvetica;
+}
+
+header{
+	background-color: black;
+	height: 100px;
+	padding: 5px;
+
+}
+
+div{
+	color: black;
+	margin: 0;
+	padding: 0;
+	font-family: helvetica;
+}
+p{
+	clear: both;
+	color: white;
+	background-color:#708090 ;
+	height: 20px;
+	text-align: justify;
+	padding: 20px;
+	font-size: 20px;
+	margin: 20px;
+}
+
+footeer{
+	clear: both;
+	color: white;
+	background-color: black;
+	height: 150px;
+	text-align: center;
+	padding: 10px;
+}
+
+#logo{
+	float: left;
+}
+
+#menu{
+	margin-top: 40px;
+	float: right;
+}
+#menu a{
+	text-decoration: none;
+	color: #708090;
+	padding:15px;
+
+}
+#menu a:hover{
+	background-color: #708090;
+	color:black;
+}
+#principal{
+	clear: both;
+	min-height: 300px;
+	padding: 20px 0 0 0;
+	background-color: #708090;
+	color: white;
+}
+body{
+	background-color: #708090;
+}
+#foto{
+		text-align: center;
+		padding: 25px;
+}
+#rodape{
+	clear: both;
+	color: white;
+	background-color: black;
+	height: 20px;
+	text-align: center;
+	padding: 20px;
+
+}
+#sobremim{
+	padding:10px;
+}
+#sobremim p{
+	padding: 30px;
+}
+#curiosidades{
+	margin-top: 50px;
+}
+
+#contato a{
+	padding: 15px;
+}
+#contato h1{
+	padding:30px;
+}
+hr{
+	margin-top: 40px;
+}
